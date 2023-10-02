@@ -8,6 +8,10 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 Note that despite the correct path for the image it would not appear, so I updated the alt text as well.
 ![Q2site](assets/img/submission/A2site.png)
 ![Q2](assets/img/submission/A2Repo.png)
+
+## Activity 3
+![Q3site](assets/img/submission/A3Site.png)
+
 > A clean, beautiful, responsive portfolio template for Software Developers!
 > https://varadbhogayata.github.io
 
