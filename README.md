@@ -13,6 +13,10 @@ Note that despite the correct path for the image it would not appear, so I updat
 ![Q3site](assets/img/submission/A3Site.png)
 ![Q3repo](assets/img/submission/A3repo.png)
 
+## Activity 4
+![Q4site](assets/img/submission/A4Site.png)
+![Q4site](assets/img/submission/A4repo.png)
+
 > A clean, beautiful, responsive portfolio template for Software Developers!
 > https://varadbhogayata.github.io
 
